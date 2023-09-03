@@ -1,6 +1,20 @@
 {
     "openapi": "3.0.2",
-    "info": {},
+    "info": {
+        "title": "Todolist RESTful API",
+        "version": "1",
+        "description": "OpenAPi for Todolist RESTful API",
+        "termsOfService": "https://dedesunarwan.netlify.app",
+        "contact": {
+            "name": "Dede Sunarwan",
+            "email": "sunarwandede13@gmail.com",
+            "url": "https://dedesunarwan.netlify.app"
+        },
+        "license": {
+            "name": "APACHE 2.0",
+            "url": "https://www.apache.org/licenses/LICENSE-2.0"
+        }
+    },
     "servers": [],
     "paths": {}
 }
