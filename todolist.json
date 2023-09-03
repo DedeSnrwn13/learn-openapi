@@ -32,5 +32,9 @@
             }
         }
     ],
+    "externalDocs": {
+        "description": "Youtube Aryuon",
+        "url": "https://www.youtube.com/@Aryuon"
+    },
     "paths": {}
 }
