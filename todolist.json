@@ -36,5 +36,22 @@
         "description": "Youtube Aryuon",
         "url": "https://www.youtube.com/@Aryuon"
     },
-    "paths": {}
+    "paths": {
+        "/todolist": {
+            "get": {
+
+            },
+            "post": {
+
+            }
+        },
+        "/todolist/{todolistId}": {
+            "put": {
+
+            },
+            "delete": {
+                
+            }
+        }
+    }
 }
